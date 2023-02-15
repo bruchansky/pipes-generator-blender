@@ -4,7 +4,7 @@ A Python class to generate pipes that randomly fill a 3D space while avoiding ob
 
 ![Pipes engine](https://github.com/bruchansky/pipes-generator-blender/blob/main/pipes-engine.jpg?raw=true)
 
-![Pipes example](https://github.com/bruchansky/pipes-generator-blender/blob/main/god-pipes.jpg?raw=true)
+![Pipes example](https://github.com/bruchansky/pipes-generator-blender/blob/main/god-pipes.jpeg?raw=true)
 
 Instructions
 1. Copy the code inside Blender (scripting workspace)
